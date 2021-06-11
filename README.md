@@ -1,6 +1,12 @@
 # Telegram_Bot_18012021
 
-A telegram bot that generate a reply based on user input
+<!-- ABOUT THE PROJECT -->
+## About The Project
+The goal of the project is to create telegram bot that generate a reply based on user input based on API generated. Futhermore, this also demonstrates the CI/CD pipeline within Github.
+
+
+### Built With
+* BotFather
 
 ## Step 1
 1. Open a chat with a BotFather, click on the “Start” button.
