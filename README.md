@@ -1,4 +1,4 @@
-# Telegram_Bot_18012021
+# Telegram Bot CI/CD Notification
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
